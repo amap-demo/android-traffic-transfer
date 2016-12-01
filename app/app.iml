@@ -140,7 +140,7 @@
     <orderEntry type="library" exported="" name="appcompat-v7-25.0.0" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-25.0.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
+    <orderEntry type="library" exported="" name="search-3.6.1" level="project" />
     <orderEntry type="library" exported="" name="map3d-4.1.2.1" level="project" />
-    <orderEntry type="library" exported="" name="search-3.5.0.1" level="project" />
   </component>
 </module>

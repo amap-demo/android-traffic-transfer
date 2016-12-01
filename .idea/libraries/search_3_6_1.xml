@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="search-3.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amap.api/search/3.6.1/3ec45e7996351e486830cf73a5a7ed88a2144c7f/search-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amap.api/search/3.6.1/887c9af5e223e25aa55fff42c4d7d3125ff54996/search-3.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -17,7 +17,6 @@ import com.amap.api.maps.AMap.OnMarkerClickListener;
 import com.amap.api.maps.MapView;
 import com.amap.api.maps.model.LatLng;
 import com.amap.api.maps.model.Marker;
-import com.amap.api.maps.overlay.BusRouteOverlay;
 import com.amap.api.services.route.BusPath;
 import com.amap.api.services.route.BusRouteResult;
 import com.amap.traffictransfer.util.AMapUtil;
