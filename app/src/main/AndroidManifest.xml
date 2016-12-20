@@ -27,10 +27,11 @@
 
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="9a678f5e79d59fac54e8c8aed8711dee"
+            android:value="您的Key"
             tools:replace="android:name, android:value"/>
 
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
